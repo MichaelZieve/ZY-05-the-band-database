@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">The Band Database</string>
+    <string name="details">Details</string>
+
+    <string-array name="bands">
+        <item>The Beatles</item>
+        <item>Nirvana</item>
+        <item>U2</item>
+        <item>Old Dominion</item>
+        <item>Band Name 1</item>
+        <item>Band Name 2</item>
+        <item>Band Name 3</item>
+        <item>Band Name 4</item>
+        <item>Band Name 5</item>
+        <item>Band Name 6</item>
+        <item>Band Name 7</item>
+        <item>Band Name 8</item>
+        <item>Band Name 9</item>
+        <item>Band Name 10</item>
+        <item>Band Name 11</item>
+        <item>Band Name 12</item>
+
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>An English rock band that formed in Liverpool in 1960.</item>
+        <item>An American rock band that formed in Washington in 1987.</item>
+        <item>An Irish rock band from Dublin that formed in 1976.</item>
+        <item>An American rock band from USA that formed in 2000s.</item>
+        <item>Band Name 1 Description</item>
+        <item>Band Name 2 Description</item>
+        <item>Band Name 3 Description</item>
+        <item>Band Name 4 Description</item>
+        <item>Band Name 5 Description</item>
+        <item>Band Name 6 Description</item>
+        <item>Band Name 7 Description</item>
+        <item>Band Name 8 Description</item>
+        <item>Band Name 9 Description</item>
+        <item>Band Name 10 Description</item>
+        <item>Band Name 11 Description</item>
+        <item>Band Name 12 Description</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
